@@ -2,6 +2,7 @@
 
 A project under the supervision of **Digital Egypt Pioneers Initiative**.
 This project aims to build a fully automated DevOps pipeline for deploying, managing, and monitoring a **Clinic Appointment System** using modern DevOps tools and cloud technologies.
+I designed and implemented CI/CD pipelines using GitHub Actions and Argo CD, applying GitOps practices and converting Kubernetes manifests into Helm charts to automate deployment—earning national recognition and ranking 7th place across Egypt.
 
 ---
 
